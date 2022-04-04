@@ -2,7 +2,7 @@
 
 A Discord bot for coordinating a game of mafia without the need for a host!  
 
-Join our public Mafia server if you want to try out the bot: http://discord.me/mafia  
+Join our public Mafia server if you want to try out the bot: nothing
 
 ## Features
 * Fully scriptable linear-flow [role system](mafia.js#L1401-L1429) with [mixins](roles/mods) for super flexible yet simple role definitions.
